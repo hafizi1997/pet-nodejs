@@ -1,0 +1,8 @@
+{
+    "env" : {
+        "DB_USER" : "hafizipet",
+        "DB_PASSWORD": "1291997kamal",
+        "DB_NAME" : "petapp",
+        "JWT_KEY" : "supersecret_dont_share"
+    }
+}
