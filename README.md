@@ -1,1 +1,7 @@
-After extract the file run 'npm run dev'
+# Nodejs & express
+
+
+- extract the file
+- npm run dev
+
+
