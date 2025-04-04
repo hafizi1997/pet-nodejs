@@ -1,2 +1,1 @@
-extract the file
-npm run dev
+After extract the file run 'npm run dev'
